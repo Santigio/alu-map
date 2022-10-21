@@ -17,6 +17,7 @@ Table of Contents
 - [Get Started](#get-started)
 - [Interface](#interface)
 - [Run](#run)
+- [Resources](#resources)
 
 
 
@@ -53,6 +54,16 @@ npm run start
 
 5. Build the application
 
+
 ```
 npm run build
 ```
+
+
+## Resources 
+
+============================
+
+#### Sample app
+
+- [Link](https://www.mappedin.com/blog/use-cases/campuses/implementing-a-successful-campus-navigation-app/)
